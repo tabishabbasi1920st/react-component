@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  font-family: Roboto;
+}
+
+.button {
+  padding: 10px;
+  border: none;
+  background-color: white;
+  color: 303150;
+}
